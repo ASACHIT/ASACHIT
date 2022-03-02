@@ -1,6 +1,6 @@
 <div style="text-align: center; margin: 2em 0;">
         <img src="https://user-images.githubusercontent.com/73944456/156336862-a257c366-13ed-4709-a804-528587070e9d.jpg"
-                alt="sachit image" srcset="" width="90%">
+                alt="sachit image" srcset="">
 </div>
 <h1 align="center">Hi 👋, I'm SACHIT YADAV</h1>
 <h3 align="center">A passionate Tech Enthusiasts From Chitwan, Nepal my current interest includes-IoT, Python, Django
