@@ -20,9 +20,12 @@
                 width="27"> Download My Resume
 </a>
 
-- <img src="https://user-images.githubusercontent.com/73944456/156338407-aa260be0-0c71-4fc4-b77b-6d963a490f27.svg"
-        width="27"> Join
-Our Community 💖
+- <a href="https://www.facebook.com/groups/itsnporg">
+        <img src="https://user-images.githubusercontent.com/73944456/156338407-aa260be0-0c71-4fc4-b77b-6d963a490f27.svg"
+                width="27"> Join
+        Our Community 💖
+
+</a>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
         <a href="https://fb.com/sachhit.yadav" target="blank"><img align="center"
@@ -115,4 +118,4 @@ Our Community 💖
 <h3>Join Our Discord Server :D</h3>
 <p><img align="left"
                 src="https://camo.githubusercontent.com/49e804b820b1ba50b50c67092b05f92a767af5c7b1059df624558ff8dd68b65f/68747470733a2f2f696e7669646765742e737769746368626c6164652e78797a2f52504339504e4a725374"
-                alt="" width="25%"></p>
+                alt="" width="30%"></p>
