@@ -24,8 +24,13 @@
         <img src="https://user-images.githubusercontent.com/73944456/156338407-aa260be0-0c71-4fc4-b77b-6d963a490f27.svg"
                 width="27"> Join
         Our Community 💖
-
 </a>
+
+- <a href="https://www.facebook.com/sachhit.yadav">
+        <img src="https://user-images.githubusercontent.com/73944456/156346048-de46837d-421f-4fa7-b7de-801805922dd4.svg"
+                width="30"> Checkout My activities and Posts </a>
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
         <a href="https://fb.com/sachhit.yadav" target="blank"><img align="center"
@@ -106,16 +111,16 @@
                 <img src="https://github-profile-trophy.vercel.app/?username=asachit" alt="asachit" />
         </a>
 </p>
-<p><img align="left"
-                src="https://github-readme-stats.vercel.app/api/top-langs?username=asachit&show_icons=true&locale=en&layout=compact"
-                alt="asachit" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=asachit&show_icons=true&locale=en"
                 alt="asachit" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=asachit&" alt="asachit" /></p>
+<p><img align="center"
+                src="https://github-readme-stats.vercel.app/api/top-langs?username=asachit&show_icons=true&locale=en"
+                alt="asachit" /></p>
+                
 
-<h3>Join Our Discord Server :D</h3>
+<h3> <a href="http://discord.gg/RPC9PNJrSt"> Join Our Discord Server :D </a></h3>
 <p><img align="left"
                 src="https://camo.githubusercontent.com/49e804b820b1ba50b50c67092b05f92a767af5c7b1059df624558ff8dd68b65f/68747470733a2f2f696e7669646765742e737769746368626c6164652e78797a2f52504339504e4a725374"
                 alt="" width="45%"></p>
