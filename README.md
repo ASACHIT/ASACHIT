@@ -4,7 +4,7 @@
 </div>
 <h1 align="center">Hi 👋, I'm SACHIT YADAV</h1>
 <h3 align="center">A passionate Tech Enthusiasts From Chitwan, Nepal. My current interest includes-IoT, Python, Django
-        Graphics Designing, Cybersecurity</h3>
+        Graphics Designing,Video Editing Cybersecurity</h3>
 <h3>Detailing About My Personal Stuffs</h3>
 
 - <img src="https://user-images.githubusercontent.com/73944456/156335536-b1431c06-af16-43dd-8062-3fd216733e15.svg"
