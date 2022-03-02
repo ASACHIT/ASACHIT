@@ -3,7 +3,7 @@
                 alt="sachit image" srcset="">
 </div>
 <h1 align="center">Hi 👋, I'm SACHIT YADAV</h1>
-<h3 align="center">A passionate Tech Enthusiasts From Chitwan, Nepal my current interest includes-IoT, Python, Django
+<h3 align="center">A passionate Tech Enthusiasts From Chitwan, Nepal. My current interest includes-IoT, Python, Django
         Graphics Designing, Cybersecurity</h3>
 <h3>Detailing About My Personal Stuffs</h3>
 
@@ -118,4 +118,4 @@
 <h3>Join Our Discord Server :D</h3>
 <p><img align="left"
                 src="https://camo.githubusercontent.com/49e804b820b1ba50b50c67092b05f92a767af5c7b1059df624558ff8dd68b65f/68747470733a2f2f696e7669646765742e737769746368626c6164652e78797a2f52504339504e4a725374"
-                alt="" width="30%"></p>
+                alt="" width="45%"></p>
