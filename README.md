@@ -129,7 +129,12 @@
                 src="https://github-readme-stats.vercel.app/api/top-langs?username=asachit&show_icons=true&locale=en"
                 alt="asachit" />
 </p>
-       
+
+<h3><a href="https://www.figma.com/file/wvcDKa8PtlD7tTEYVq0V8z/sachit_designs?node-id=0%3A1"> Check out Designs and Graphics Made by me </a> </h3>
+<img align="left" src="https://user-images.githubusercontent.com/73944456/156556787-73266817-b30c-431c-8f2e-7c88eb8b6ff7.svg" width="300">
+<img align="center" src="https://user-images.githubusercontent.com/73944456/156557187-fb8d6e9e-a595-4b85-bfc6-e40630cffe8a.svg" width="300">
+
 
 <h3> <a href="http://discord.gg/RPC9PNJrSt"> Join Our Discord Server :D </a></h3>
 <p><img align="left"                src="https://camo.githubusercontent.com/49e804b820b1ba50b50c67092b05f92a767af5c7b1059df624558ff8dd68b65f/68747470733a2f2f696e7669646765742e737769746368626c6164652e78797a2f52504339504e4a725374" width="45%"></p>
+
