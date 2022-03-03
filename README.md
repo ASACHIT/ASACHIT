@@ -101,6 +101,8 @@
                 <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40" />
         </a>
 </p>
+
+
 <p align="left">
         <img src="https://komarev.com/ghpvc/?username=asachit&label=Profile%20views&color=0e75b6&style=flat"
                 alt="asachit" />
@@ -111,14 +113,23 @@
                 <img src="https://github-profile-trophy.vercel.app/?username=asachit" alt="asachit" />
         </a>
 </p>
-
+<p align="right">
+        <a href="https://app.daily.dev/SACHIT">
+                <img align="right" src="https://api.daily.dev/devcards/a4c0e526f1614db8b7405bbe302eb657.png?r=oij"
+                        width="400" alt="Sachit Yadav's Dev Card" />
+        </a>
+</p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=asachit&show_icons=true&locale=en"
-                alt="asachit" /></p>
+                alt="asachit" />
+</p>
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=asachit&" alt="asachit" /></p>
-<p><img align="center"
+<p>
+        <img align="center"
                 src="https://github-readme-stats.vercel.app/api/top-langs?username=asachit&show_icons=true&locale=en"
-                alt="asachit" /></p>
-                
+                alt="asachit" />
+</p>
+       
 
 <h3> <a href="http://discord.gg/RPC9PNJrSt"> Join Our Discord Server :D </a></h3>
 <p><img align="left"
