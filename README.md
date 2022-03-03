@@ -116,7 +116,7 @@
 <p align="right">
         <a href="https://app.daily.dev/SACHIT">
                 <img align="right" src="https://api.daily.dev/devcards/a4c0e526f1614db8b7405bbe302eb657.png?r=oij"
-                        width="400" alt="Sachit Yadav's Dev Card" />
+                        width="350" alt="Sachit Yadav's Dev Card" />
         </a>
 </p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=asachit&show_icons=true&locale=en"
