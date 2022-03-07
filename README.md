@@ -51,7 +51,7 @@
             alt="python" />
     </a>
     <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
-        <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=lightgreen" />
+        <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green" />
     </a>
     <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img
             src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" /> </a> <a
@@ -102,7 +102,7 @@
             alt="photoshop" />
     </a>
     <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img
-            src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=black"
+            src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white"
             alt="pr" />
     </a>
     <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
