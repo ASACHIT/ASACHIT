@@ -143,7 +143,7 @@
 </p>
 
 <h3><a href="https://www.figma.com/file/wvcDKa8PtlD7tTEYVq0V8z/sachit_designs?node-id=0%3A1"> Check out Designs and
-        Graphics Made by me </a> </h3>
+        Graphics That I Made</a> </h3>
 <img align="left"
     src="https://user-images.githubusercontent.com/73944456/156556787-73266817-b30c-431c-8f2e-7c88eb8b6ff7.svg"
     width="300">
