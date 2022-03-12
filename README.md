@@ -58,6 +58,13 @@
         href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img
             src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="git" />
     </a>
+    <a href="http://flutter.dev/" target="_blank" rel="noreferrer"> <img
+            src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"
+            alt="flutter" />
+    </a>
+    <a href=https://dart.dev/" target="_blank" rel="noreferrer"> <img
+            src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="dart" />
+    </a>
     <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img
             src="https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white"
             alt="arduino" />
