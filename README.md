@@ -134,7 +134,7 @@
 </p>
 <p align="right">
     <a href="https://app.daily.dev/SACHIT">
-        <img align="right" src="https://api.daily.dev/devcards/a4c0e526f1614db8b7405bbe302eb657.png?r=oij" width="300"
+        <img align="right" src="https://api.daily.dev/devcards/a4c0e526f1614db8b7405bbe302eb657.png?r=yfn" width="300"
             alt="Sachit Yadav's Dev Card" />
     </a>
 </p>
