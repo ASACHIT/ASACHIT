@@ -8,7 +8,7 @@
 <h3>Detailing About My Personal Stuffs</h3>
 
 - <img src="https://user-images.githubusercontent.com/73944456/156335536-b1431c06-af16-43dd-8062-3fd216733e15.svg"
-    alt="" srcset="" width="35"> I’m currently learning **django,IoT, Graphics designing**
+    alt="" srcset="" width="35"> I’m currently learning **django,IoT, Flutter**
 - <img src="https://user-images.githubusercontent.com/73944456/156142320-a879b281-da41-4e58-aaa4-ff9a1af30130.svg"
     width="30"> I’m looking to collaborate on [Image Extractor](https://github.com/ASACHIT/Pics-Extractor.git)
 - <img src="https://user-images.githubusercontent.com/73944456/156142962-89615d24-4136-4ed3-b4f1-685c7d56a474.svg"
