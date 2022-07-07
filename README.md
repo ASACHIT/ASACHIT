@@ -15,7 +15,7 @@
     width="30"> Ask me about **python, django, IoT, arduino, figma, photoshop, premiere pro etc**
 - <img src="https://user-images.githubusercontent.com/73944456/156143298-03d879ba-1099-4a25-a7a9-0b7486f061f3.svg"
     width="27"> How to reach me **sachityadav@itsnp.org**
-- <a href="https://docs.google.com/document/d/1K3TFkSr5x_17jxqjYD5PBLe43iqBYe1y/edit?usp=sharing&ouid=106769865283406004108&rtpof=true&sd=true">
+- <a href="https://sachit.itsnp.org">
     <img src="https://user-images.githubusercontent.com/73944456/156334847-94e54211-d6c0-44e2-a0d7-eef564463db0.svg"
         width="27"> View My Resume
 </a>
