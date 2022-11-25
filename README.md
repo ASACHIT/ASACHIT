@@ -157,9 +157,3 @@
 <img align="center"
     src="https://user-images.githubusercontent.com/73944456/156557187-fb8d6e9e-a595-4b85-bfc6-e40630cffe8a.svg"
     width="300">
-
-
-<h3> <a href="http://discord.gg/RPC9PNJrSt"> Join Our Discord Server :D </a></h3>
-<p><img align="left"
-        src="https://camo.githubusercontent.com/49e804b820b1ba50b50c67092b05f92a767af5c7b1059df624558ff8dd68b65f/68747470733a2f2f696e7669646765742e737769746368626c6164652e78797a2f52504339504e4a725374"
-        width="45%"></p>
