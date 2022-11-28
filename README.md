@@ -1,35 +1,17 @@
 <div style="text-align: center; margin: 2em 0;">
-    <img src="https://user-images.githubusercontent.com/73944456/156336862-a257c366-13ed-4709-a804-528587070e9d.jpg"
-        alt="sachit image" srcset="">
+    <img src="https://user-images.githubusercontent.com/73944456/204138441-db101a44-6bd6-480d-91d9-dcab2fe0b051.jpg"
+        alt="Sachit Yadav Nepal">
 </div>
 <h1 align="center">Hi 👋, I'm SACHIT YADAV</h1>
-<h3 align="center">A passionate Tech Enthusiasts From Chitwan, Nepal. My current interest includes-IoT, Python, Django
-    Graphics Designing,Video Editing Cybersecurity</h3>
-<h3>Detailing About My Personal Stuffs</h3>
+<h3 align="center" style="padding-bottom: 10px;">A passionated tech enthusiast from Chitwan Nepal. My current domains
+    interest are Python, Django, IoT, designing graphics,video editing & Cybersecurity</h3>
+<p>Detailing About My Personal Stuffs</p>
 
-- <img src="https://user-images.githubusercontent.com/73944456/156335536-b1431c06-af16-43dd-8062-3fd216733e15.svg"
-    alt="" srcset="" width="35"> I’m currently learning **django,IoT, Flutter**
-- <img src="https://user-images.githubusercontent.com/73944456/156142320-a879b281-da41-4e58-aaa4-ff9a1af30130.svg"
-    width="30"> I’m looking to collaborate on [Image Extractor](https://github.com/ASACHIT/Pics-Extractor.git)
-- <img src="https://user-images.githubusercontent.com/73944456/156142962-89615d24-4136-4ed3-b4f1-685c7d56a474.svg"
-    width="30"> Ask me about **python, django, IoT, arduino, figma, photoshop, premiere pro etc**
-- <img src="https://user-images.githubusercontent.com/73944456/156143298-03d879ba-1099-4a25-a7a9-0b7486f061f3.svg"
-    width="27"> How to reach me **sachityadav@itsnp.org**
-- <a href="https://sachit.itsnp.org">
-    <img src="https://user-images.githubusercontent.com/73944456/156334847-94e54211-d6c0-44e2-a0d7-eef564463db0.svg"
-        width="27"> View My Resume
-</a>
-
-- <a href="https://www.facebook.com/groups/itsnporg">
-    <img src="https://user-images.githubusercontent.com/73944456/156338407-aa260be0-0c71-4fc4-b77b-6d963a490f27.svg"
-        width="27"> Join
-    Our Community 💖
-</a>
-
-- <a href="https://www.facebook.com/sachhit.yadav">
-    <img src="https://user-images.githubusercontent.com/73944456/156346048-de46837d-421f-4fa7-b7de-801805922dd4.svg"
-        width="30"> Checkout My activities and Posts </a>
-
+- ✍️ I’m currently learning **FastAPI,Django & Many More**
+- 💻 I’m currently Working as a founder at [**werkk freelancing platform**](http://werkk.tech/)
+- 🙋‍♂️ Ask me about **python, django, IoT, arduino, figma, photoshop, premiere pro, wordpress etc**
+- 📨 How to reach me **sachit@werkk.tech / sachityadav987@gmail.com**
+- 📃 View My [Resume](https://drive.google.com/file/d/1Zrwdw9RPp_vnGZnTKJeEbYTsxd7bqGpE/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -53,9 +35,10 @@
     <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
         <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green" />
     </a>
-    <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img
-            src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" /> </a> <a
-        href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img
+    <a href="">
+        <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" alt="fastapi" srcset="">
+    </a>
+    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img
             src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="git" />
     </a>
     <a href="http://flutter.dev/" target="_blank" rel="noreferrer"> <img
@@ -127,33 +110,13 @@
         alt="asachit" />
 </p>
 
-<p align="left">
-    <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img src="https://github-profile-trophy.vercel.app/?username=asachit" alt="asachit" />
-    </a>
-</p>
-<p align="right">
-    <a href="https://app.daily.dev/SACHIT">
-        <img align="right" src="https://api.daily.dev/devcards/a4c0e526f1614db8b7405bbe302eb657.png?r=yfn" width="300"
-            alt="Sachit Yadav's Dev Card" />
-    </a>
-</p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=asachit&show_icons=true&locale=en"
-        alt="asachit" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=asachit&show_icons=true&theme=graywhite" alt="asachit" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=asachit&theme=graywhite" alt="asachit" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asachit&layout=compact&theme=graywhite"
+    alt="asachit" />
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=asachit&" alt="asachit" /></p>
-<p>
-    <img align="center"
-        src="https://github-readme-stats.vercel.app/api/top-langs?username=asachit&show_icons=true&locale=en"
-        alt="asachit" />
-</p>
+<!-- create a div row  -->
 
-<h3><a href="https://www.figma.com/file/wvcDKa8PtlD7tTEYVq0V8z/sachit_designs?node-id=0%3A1"> Check out Designs and
-        Graphics That I Made</a> </h3>
-<img align="left"
-    src="https://user-images.githubusercontent.com/73944456/156556787-73266817-b30c-431c-8f2e-7c88eb8b6ff7.svg"
-    width="300">
-<img align="center"
-    src="https://user-images.githubusercontent.com/73944456/156557187-fb8d6e9e-a595-4b85-bfc6-e40630cffe8a.svg"
-    width="300">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=asachit&repo=IMG-Background-Remover">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=asachit&repo=Pics-Extractor">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=asachit&repo=shareit-tool">
