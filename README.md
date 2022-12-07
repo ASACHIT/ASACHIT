@@ -117,6 +117,6 @@
 
 <!-- create a div row  -->
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=asachit&repo=IMG-Background-Remover">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=asachit&repo=Pics-Extractor">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=asachit&repo=shareit-tool">
+<a href="https://github.com/ASACHIT/IMG-Background-Remover"><img src="https://github-readme-stats.vercel.app/api/pin/?username=asachit&repo=IMG-Background-Remover"></a>
+<a href="https://github.com/ASACHIT/Pics-Extractor"><img src="https://github-readme-stats.vercel.app/api/pin/?username=asachit&repo=Pics-Extractor"></a>
+                                                                                                                                                   <a href="https://github.com/ASACHIT/shareit-tool"><img src="https://github-readme-stats.vercel.app/api/pin/?username=asachit&repo=shareit-tool"></a>
