@@ -7,11 +7,10 @@
     interest are Python, Django, IoT, designing graphics,video editing & Cybersecurity</h3>
 <p>Detailing About My Personal Stuffs</p>
 
-- ✍️ I’m currently learning **FastAPI,Django & Many More**
-- 💻 I’m currently Working as a founder at [**werkk freelancing platform**](http://werkk.tech/)
-- 🙋‍♂️ Ask me about **python, django, IoT, arduino, figma, photoshop, premiere pro, wordpress etc**
-- 📨 How to reach me **sachit@werkk.tech / sachityadav987@gmail.com**
-- 📃 View My [Resume](https://drive.google.com/file/d/1Zrwdw9RPp_vnGZnTKJeEbYTsxd7bqGpE/view?usp=sharing)
+- ✍️ I’m currently learning **MERN Stack**
+- 🙋‍♂️ Ask me about **Python, Django, Java, JavaScript, ExpressJs, MongoDB, IoT, Figma, Wordpress, UI/UX**
+- 📨 How to reach me **sachityadav987@gmail.com**
+- 📃 View My [Portfolio](https://sachityadav.com.np/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
