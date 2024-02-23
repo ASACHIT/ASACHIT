@@ -1,10 +1,9 @@
 <div style="text-align: center; margin: 2em 0;">
-    <img src="https://user-images.githubusercontent.com/73944456/204138441-db101a44-6bd6-480d-91d9-dcab2fe0b051.jpg"
+    <img src="https://github.com/ASACHIT/ASACHIT/assets/73944456/9bbce9b3-7d94-4416-a812-fb456bb08420"
         alt="Sachit Yadav Nepal">
 </div>
 <h1 align="center">Hi 👋, I'm SACHIT YADAV</h1>
-<h3 align="center" style="padding-bottom: 10px;">A passionated tech enthusiast from Chitwan Nepal. My current domains
-    interest are Python, Django, IoT, designing graphics,video editing & Cybersecurity</h3>
+<h3 align="center" style="padding-bottom: 10px;"></h3>
 <p>Detailing About My Personal Stuffs</p>
 
 - ✍️ I’m currently learning **MERN Stack**
