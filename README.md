@@ -107,9 +107,3 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=asachit&theme=graywhite" alt="asachit" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asachit&layout=compact&theme=graywhite"
     alt="asachit" />
-
-<!-- create a div row  -->
-
-<a href="https://github.com/ASACHIT/IMG-Background-Remover"><img src="https://github-readme-stats.vercel.app/api/pin/?username=asachit&repo=IMG-Background-Remover"></a>
-<a href="https://github.com/ASACHIT/Pics-Extractor"><img src="https://github-readme-stats.vercel.app/api/pin/?username=asachit&repo=Pics-Extractor"></a>
-                                                                                                                                                   <a href="https://github.com/ASACHIT/shareit-tool"><img src="https://github-readme-stats.vercel.app/api/pin/?username=asachit&repo=shareit-tool"></a>
