@@ -6,8 +6,8 @@
 <h3 align="center" style="padding-bottom: 10px;"></h3>
 <p>Detailing About My Personal Stuffs</p>
 
-- ✍️ I’m currently learning **MERN Stack**
-- 🙋‍♂️ Ask me about **Python, Django, Java, JavaScript, ExpressJs, MongoDB, IoT, Figma, Wordpress, UI/UX**
+- ✍️ I’m currently learning **App Development**
+- 🙋‍♂️ Ask me about **FullStack Development, App Development, IoT, UI/UX**
 - 📨 How to reach me **sachityadav987@gmail.com**
 - 📃 View My [Portfolio](https://sachityadav.com.np/)
 
@@ -19,9 +19,7 @@
     <a href="https://linkedin.com/in/sachit-yadav" target="_blank"><img align="center"
             src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
             alt="sachit-yadav" /></a>
-    <a href="https://www.youtube.com/c/itsnporg" target="_blank"><img align="center"
-            src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"
-            alt="ITSNP YT" /></a>
+    
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -38,13 +36,6 @@
     </a>
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img
             src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="git" />
-    </a>
-    <a href="http://flutter.dev/" target="_blank" rel="noreferrer"> <img
-            src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"
-            alt="flutter" />
-    </a>
-    <a href=https://dart.dev/" target="_blank" rel="noreferrer"> <img
-            src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="dart" />
     </a>
     <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img
             src="https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white"
@@ -70,28 +61,12 @@
             alt="tailwind" />
     </a>
     <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-        <img src="https://img.shields.io/badge/manjaro-35BF5C?style=for-the-badge&logo=manjaro&logoColor=white"
-            alt="linux" />
-    </a>
-    <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
         <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white"
             alt="linux" />
-    </a>
-    <a href="" target="_blank" rel="noreferrer">
-        <img src="https://img.shields.io/badge/Windows_95-008080?style=for-the-badge&logo=windows-95&logoColor=white"
-            alt="windows" />
     </a>
     <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img
             src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white"
             alt="selenium" />
-    </a>
-    <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img
-            src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black"
-            alt="photoshop" />
-    </a>
-    <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img
-            src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white"
-            alt="pr" />
     </a>
     <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
         <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
