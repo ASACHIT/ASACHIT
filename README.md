@@ -77,8 +77,3 @@
     <img src="https://komarev.com/ghpvc/?username=asachit&label=Profile%20views&color=0e75b6&style=flat"
         alt="asachit" />
 </p>
-
-<img src="https://github-readme-stats.vercel.app/api?username=asachit&show_icons=true&theme=graywhite" alt="asachit" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=asachit&theme=graywhite" alt="asachit" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asachit&layout=compact&theme=graywhite"
-    alt="asachit" />
